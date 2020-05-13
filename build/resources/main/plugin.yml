@@ -1,0 +1,8 @@
+name: AlphaBoss
+main: es.meriland.Main
+version: 3.7
+author: sotrobA
+commands:
+  updateboss:
+    description: caca
+    usage: /<command>
