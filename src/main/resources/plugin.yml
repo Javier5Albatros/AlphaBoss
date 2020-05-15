@@ -6,3 +6,6 @@ commands:
   updateboss:
     description: caca
     usage: /<command>
+  bossupdate:
+    description: cacaculo
+    usage: /<command>
